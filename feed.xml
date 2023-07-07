@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>James Milsom</title>
+    <link href="https://jamesgmilsom.github.io/publii-site/feed.xml" rel="self" />
+    <link href="https://jamesgmilsom.github.io/publii-site" />
+    <updated>2023-07-07T14:01:28+10:00</updated>
+    <author>
+        <name>James Milsom</name>
+    </author>
+    <id>https://jamesgmilsom.github.io/publii-site</id>
+
+    <entry>
+        <title>Hi</title>
+        <author>
+            <name>James Milsom</name>
+        </author>
+        <link href="https://jamesgmilsom.github.io/publii-site/hi.html"/>
+        <id>https://jamesgmilsom.github.io/publii-site/hi.html</id>
+
+        <updated>2023-07-07T14:01:28+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+
+  <p>
+    Test
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -12,16 +12,15 @@
         {
             "id": "https://jamesgmilsom.github.io/publii-site/hi.html",
             "url": "https://jamesgmilsom.github.io/publii-site/hi.html",
-            "title": "Hi",
-            "summary": "Test",
-            "content_html": "\n  <p>\n    \n  </p>\n\n  <p>\n    Test\n  </p>",
+            "title": "Ben Roberts-Smith vs the media",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://jamesgmilsom.github.io/publii-site/media/posts/1/Capture-2023-03-05-155929.png\" height=\"440\" width=\"440\" alt=\"\"  sizes=\"100vw\" srcset=\"https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-xs.png 300w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-sm.png 480w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-md.png 768w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-lg.png 1024w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-xl.png 1360w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-2xl.png 1600w\">\n      \n    </figure>",
             "author": {
                 "name": "James Milsom"
             },
             "tags": [
             ],
             "date_published": "2023-07-07T14:01:28+10:00",
-            "date_modified": "2023-07-07T14:01:28+10:00"
+            "date_modified": "2023-07-07T16:16:26+10:00"
         }
     ]
 }

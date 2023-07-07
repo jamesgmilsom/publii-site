@@ -3,36 +3,29 @@
     <title>James Milsom</title>
     <link href="https://jamesgmilsom.github.io/publii-site/feed.xml" rel="self" />
     <link href="https://jamesgmilsom.github.io/publii-site" />
-    <updated>2023-07-07T14:01:28+10:00</updated>
+    <updated>2023-07-07T16:16:26+10:00</updated>
     <author>
         <name>James Milsom</name>
     </author>
     <id>https://jamesgmilsom.github.io/publii-site</id>
 
     <entry>
-        <title>Hi</title>
+        <title>Ben Roberts-Smith vs the media</title>
         <author>
             <name>James Milsom</name>
         </author>
         <link href="https://jamesgmilsom.github.io/publii-site/hi.html"/>
         <id>https://jamesgmilsom.github.io/publii-site/hi.html</id>
 
-        <updated>2023-07-07T14:01:28+10:00</updated>
-            <summary>
-                <![CDATA[
-                    Test
-                ]]>
-            </summary>
+        <updated>2023-07-07T16:16:26+10:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    
-  </p>
-
-  <p>
-    Test
-  </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jamesgmilsom.github.io/publii-site/media/posts/1/Capture-2023-03-05-155929.png" height="440" width="440" alt=""  sizes="100vw" srcset="https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-xs.png 300w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-sm.png 480w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-md.png 768w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-lg.png 1024w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-xl.png 1360w ,https://jamesgmilsom.github.io/publii-site/media/posts/1/responsive/Capture-2023-03-05-155929-2xl.png 1600w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
